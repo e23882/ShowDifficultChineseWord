@@ -1,0 +1,9 @@
+﻿<Application x:Class="TestDifficultWord.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TestDifficultWord"
+             StartupUri="MainWindow.xaml" >
+    <Application.Resources>
+         <FontFamily x:Key="myFont">TDCCMingLiU,/TestDifficultWord;component/font/TDCCMingLiu</FontFamily>
+    </Application.Resources>
+</Application>
